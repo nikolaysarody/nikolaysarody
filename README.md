@@ -9,5 +9,5 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on open source/commercial projects
  💬 Ask me about **Web Development**
 - 📫 How to reach me: **[Telegram](https://t.me/sarodinsky)**
-- 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username= nikolaysarody&layout=compact&theme=dark&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikolaysarody&layout=compact&theme=dark&hide_border=true)
