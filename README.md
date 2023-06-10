@@ -1,6 +1,6 @@
 ### Hi there 👋 ![](https://komarev.com/ghpvc/?username=nikolaysarody)
 
-I am **Nikolay Sayanskii** and i am a **Frontend developer**. **Skilled in React JS, VueJS, TypeScript, NodeJS, MongoDB and RESTfull API’s**
+My name is **Nikolay Sayanskii** and i am a **Frontend developer**. **Skilled in React JS, VueJS, TypeScript, NodeJS, MongoDB and RESTfull API’s.**
 
 Here are some ideas to get you started:
 
