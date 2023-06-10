@@ -2,8 +2,6 @@
 
 My name is **Nikolay Sayanskii** and i am a **Frontend Developer**. **Skilled in React JS, VueJS, TypeScript, NodeJS, MongoDB and RESTfull API’s.**
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently searching a job as **Frontend Developer**
 - 🌱 I’m currently learning **Production Frontend Development**
 - 👯 I’m looking to collaborate on open source/commercial projects
