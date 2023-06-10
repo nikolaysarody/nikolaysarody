@@ -1,17 +1,13 @@
-### Hi there 👋
-![](https://komarev.com/ghpvc/?username=nikolaysarody)
+### Hi there 👋 ![](https://komarev.com/ghpvc/?username=nikolaysarody)
 
-<!--
-**nikolaysarody/nikolaysarody** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am **Nikolay Sayanskii** and i am a **Frontend developer**. **Skilled in React JS, VueJS, TypeScript, NodeJS, MongoDB and RESTfull API’s**
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently searching a job as **Frontend developer**
+- 🌱 I’m currently learning **Production frontend development**
+- 👯 I’m looking to collaborate on open source/commercial projects
+ 💬 Ask me about **Web Development**
+- 📫 How to reach me: **[Telegram]([https://twitter.com/codewithghazi](https://t.me/sarodinsky))
+- 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gkhan205&layout=compact&theme=dark&hide_border=true)
