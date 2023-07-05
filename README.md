@@ -1,4 +1,4 @@
-### Hi there 👋 ![](https://komarev.com/ghpvc/?username=nikolaysarody)
+### Hi there 👋
 
 My name is **Nikolay Sayanskii** and i am a **Frontend Developer**. **Skilled in React JS, VueJS, TypeScript, NodeJS, MongoDB and RESTfull API’s.**
 
