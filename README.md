@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is **Nikolay Sayanskiy** and I am a **Frontend Developer**. **Skilled in React, Next, TypeScript, JavaScript**
+I am **Nikolay Sayanskiy**, a **Frontend Developer** skilled in React, Next.js, TypeScript, and JavaScript.
 
 - 📫 How to reach me: **[Telegram](https://t.me/sarody)**
 
